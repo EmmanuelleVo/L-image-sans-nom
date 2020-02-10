@@ -26,5 +26,5 @@ Inspiration site web :
 - Site cdit ?
 - Site : https://vincentdelbrouck.be/?
 - Site Instudio(studio graphique à liège) ?
-- Site GUI.net (place de l’image, projet collaboration, simplicité, accès à plein de contenus)
+- Site https://www.g-u-i.net/ (place de l’image, projet collaboration, simplicité, accès à plein de contenus)
 - Site https://tipi-bookshop.be/
