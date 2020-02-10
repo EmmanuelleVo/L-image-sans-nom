@@ -20,10 +20,11 @@ Cahier des charges :
 - Optimiser la taille des images / Site rapide à charger
 - Publication facebook?…
 
+
 Inspiration site web : 
-Site https://www.lesdrapiers.be/  //(ont une bibliothèque aussi) — simplicité et les images
-Site cdit ?
-Site : https://vincentdelbrouck.be/?
-Site Instudio(studio graphique à liège) ?
-Site GUI.net (place de l’image, projet collaboration, simplicité, accès à plein de contenus)
-Site https://tipi-bookshop.be/
+- Site https://www.lesdrapiers.be/  //(ont une bibliothèque aussi) — simplicité et les images
+- Site cdit ?
+- Site : https://vincentdelbrouck.be/?
+- Site Instudio(studio graphique à liège) ?
+- Site GUI.net (place de l’image, projet collaboration, simplicité, accès à plein de contenus)
+- Site https://tipi-bookshop.be/
