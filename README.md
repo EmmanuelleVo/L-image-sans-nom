@@ -15,11 +15,11 @@ Public cible :
 	
 Fonctionnalités : 
 
-	- Publication facebook?
+	- Publication facebook
 	
 	- Prévoir les horaires - num de téléphone
 	
-	- Nav : newsletter - à propos - contactez-moi (formulaires de contact(visiter une expo, organiser qqch avec ISN, visite en groupe,… ou lien vers adresse-mail)
+	- Nav : accueil - à propos - bibliothèque - galerie - contactez-moi (formulaires de contact(visiter une expo, organiser qqch avec ISN, visite en groupe,… ou lien vers adresse-mail)
 	
 	- prévoir un pdf qui présente les expos/bouquins (soit pdf généré auto soit CTA)
 	
@@ -95,13 +95,11 @@ Plan du site :
 
 1. Accueil : 
 
-	- Barre de navigation (accueil - à propos - bibliothèque - contactez-moi)
+	- Barre de navigation (accueil - à propos - bibliothèque - contactez-moi - bibliothèque -galerie)
 
 	- Barre de recherche
 
 	- Multilingue
-
-	- Publication Facebook
 
 	- Footer avec lien vers Fb ou autre, adresse(carte), mail, horaires, num de téléphone + newsletter
 
@@ -122,9 +120,9 @@ Plan du site :
 
 4. Bibliothèque
 
-	- Liste des livres (images) avec nom du livre, auteur, édition et petit résumé
+	- Liste des livres (images) avec nom du livre, auteur et genre
 
-	- Possibilité de trier par ordre alphabétique(auteur et nom du livre?), de popularité?
+	- Possibilité de trier par ordre alphabétique(auteur et nom du livre?), de popularité? et de genre
 
 
 5.Événements :
@@ -132,11 +130,13 @@ Plan du site :
 	- PDF présentant l’expo
 
 	- expo en cours et passée
+	
+	- Publication Facebook
 
 
 6. Page produit (livre)
 
-	- PDF présentant un bouquin
+	- PDF présentant un bouquin?
 
 	- Le produit :
 
@@ -144,7 +144,7 @@ Plan du site :
 	
 		Description - résumé
 	
-		Nom de l’auteur + édition
+		Nom du livre, nom de l’auteur, édition, collection et genre
 
 
 7. Photographies (liste)
@@ -153,7 +153,9 @@ Plan du site :
 
 	- Nom du photographe
 
-	- Légende (description)
+	- Nom de la photo
+	
+	- Possibilité de trier par ordre alphabétique ou d'ajout
 
 
 8. Page produit (artiste/photo)
