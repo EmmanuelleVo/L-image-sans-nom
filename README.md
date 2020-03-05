@@ -95,72 +95,72 @@ Plan du site :
 
 1. Accueil : 
 
-- Barre de navigation (accueil - à propos - bibliothèque - contactez-moi)
+	- Barre de navigation (accueil - à propos - bibliothèque - contactez-moi)
 
-- Barre de recherche
+	- Barre de recherche
 
-- Multilingue
+	- Multilingue
 
-- Publication Facebook
+	- Publication Facebook
 
-- Footer avec lien vers Fb ou autre, adresse(carte), mail, horaires, num de téléphone + newsletter
+	- Footer avec lien vers Fb ou autre, adresse(carte), mail, horaires, num de téléphone + newsletter
 
-- Actualité (expo, articles et livres)
+	- Actualité (expo, articles et livres)
 
 
 2. Contactez-moi :
 
-- Formulaire de contact (prévoir différentes situations ex: visiter une expo, organiser qqch avec ISN, visite en groupe,… ou/et lien vers adresse-mail)
+	- Formulaire de contact (prévoir différentes situations ex: visiter une expo, organiser qqch avec ISN, visite en groupe,… ou/et lien vers adresse-mail)
 
 
 3. A propos : 
 
-- Présentation d’ISN
+	- Présentation d’ISN
 
-- Images du lieu
+	- Images du lieu
 
 
 4. Bibliothèque
 
-- Liste des livres (images) avec nom du livre, auteur, édition et petit résumé
+	- Liste des livres (images) avec nom du livre, auteur, édition et petit résumé
 
-- Possibilité de trier par ordre alphabétique(auteur et nom du livre?), de popularité?
+	- Possibilité de trier par ordre alphabétique(auteur et nom du livre?), de popularité?
 
 
 5.Événements :
 
-- PDF présentant l’expo
+	- PDF présentant l’expo
 
-- expo en cours et passée
+	- expo en cours et passée
 
 
 6. Page produit (livre)
 
-- PDF présentant un bouquin
+	- PDF présentant un bouquin
 
-- Le produit :
+	- Le produit :
 
-	Image(s) du produit
+		Image(s) du produit
 	
-	Description - résumé
+		Description - résumé
 	
-	Nom de l’auteur + édition
+		Nom de l’auteur + édition
 
 
 7. Photographies (liste)
 
-- Photos
+	- Photos
 
-- Nom du photographe
+	- Nom du photographe
 
-- Légende (description)
+	- Légende (description)
 
 
 8. Page produit (artiste/photo)
 
-- Nom de l’artiste
+	- Nom de l’artiste
 
-- Ses photos
+	- Ses photos
 
--Légende (description)
+	- Légende (description)
 
