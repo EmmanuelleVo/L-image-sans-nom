@@ -94,51 +94,73 @@ Plan du site :
 
 
 1. Accueil : 
-Barre de navigation (accueil - à propos - bibliothèque - contactez-moi)
-Barre de recherche
-Multilingue
-Publication Facebook
-Footer avec lien vers Fb ou autre, adresse(carte), mail, horaires, num de téléphone + newsletter
-Actualité (expo, articles et livres)
+
+- Barre de navigation (accueil - à propos - bibliothèque - contactez-moi)
+
+- Barre de recherche
+
+- Multilingue
+
+- Publication Facebook
+
+- Footer avec lien vers Fb ou autre, adresse(carte), mail, horaires, num de téléphone + newsletter
+
+- Actualité (expo, articles et livres)
 
 
 2. Contactez-moi :
-Formulaire de contact (prévoir différentes situations ex: visiter une expo, organiser qqch avec ISN, visite en groupe,… ou/et lien vers adresse-mail)
+
+- Formulaire de contact (prévoir différentes situations ex: visiter une expo, organiser qqch avec ISN, visite en groupe,… ou/et lien vers adresse-mail)
 
 
 3. A propos : 
-Présentation d’ISN
-Images du lieu
+
+- Présentation d’ISN
+
+- Images du lieu
 
 
 4. Bibliothèque
-Liste des livres (images) avec nom du livre, auteur, édition et petit résumé
-Possibilité de trier par ordre alphabétique(auteur et nom du livre?), de popularité?
+
+- Liste des livres (images) avec nom du livre, auteur, édition et petit résumé
+
+- Possibilité de trier par ordre alphabétique(auteur et nom du livre?), de popularité?
 
 
 5.Événements :
-PDF présentant l’expo
-expo en cours et passée
+
+- PDF présentant l’expo
+
+- expo en cours et passée
 
 
 6. Page produit (livre)
-PDF présentant un bouquin
+
+- PDF présentant un bouquin
+
+- Le produit :
+
+	Image(s) du produit
+	
+	Description - résumé
+	
+	Nom de l’auteur + édition
 
 
-7.Le produit :
-Image(s) du produit
-Description - résumé
-Nom de l’auteur + édition
+7. Photographies (liste)
+
+- Photos
+
+- Nom du photographe
+
+- Légende (description)
 
 
-8. Photographies (liste)
-Photos
-Nom du photographe
-Légende (description)
+8. Page produit (artiste/photo)
 
+- Nom de l’artiste
 
-9. Page produit (artiste/photo)
-Nom de l’artiste
-Ses photos
-Légende (description)
+- Ses photos
+
+-Légende (description)
 
