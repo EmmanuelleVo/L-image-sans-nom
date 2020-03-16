@@ -67,7 +67,7 @@ Exigences graphiques :
 	
 	- Typo 1(titre,…) + autre typo textuelle (cf: charte graphique)
 	
-	- Quand on clique sur le texte, il est en avant par rapport à l’image et vice-versa (cf: site)
+	- Quand on clique sur le texte, il est en avant par rapport à l’image et vice-versa (cf: site) si possible
 	
 
 
@@ -120,18 +120,18 @@ Plan du site :
 
 4. Bibliothèque
 
-	- Liste des livres (images) avec nom du livre, auteur et genre
+	- Liste des livres (images) avec nom du livre, auteur
 
-	- Possibilité de trier par ordre alphabétique(auteur et nom du livre?), de popularité? et de genre
+	- Possibilité de trier par ordre alphabétique(auteur et nom du livre?), de popularité?
 
 
 5.Événements :
 
 	- PDF présentant l’expo
 
-	- expo en cours et passée
+	- expo en cours 
 	
-	- Publication Facebook
+	- Publication Facebook ?
 
 
 6. Page produit (livre)
@@ -144,7 +144,7 @@ Plan du site :
 	
 		Description - résumé
 	
-		Nom du livre, nom de l’auteur, édition, collection et genre
+		Nom du livre, nom de l’auteur, édition
 
 
 7. Photographies (liste)
@@ -169,6 +169,6 @@ Plan du site :
 
 ISN moodboard : https://emmanuellevo270765.invisionapp.com/board/Image-Sans-Nom-ck7f9imae15dr18u8k90x8zeo?v=hqTh1ha%2F25eqnTPAY6GyvA%3D%3D&linkshare=urlcopied
 
-ISN wireframe : https://xd.adobe.com/view/c2579780-32f2-4eb4-5a2a-e40ec9139463-b466/
+ISN wireframe : https://xd.adobe.com/view/157c851b-bcd1-4da5-7ab2-246b67714d40-634d/
 
 
